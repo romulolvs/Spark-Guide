@@ -1,0 +1,11 @@
+v1
+{"path":"dbfs:/Workspace/Repos/romulo.leonardo@gmail.com/Spark-Guide/datasets/retail-data/by-day/2010-12-01.csv","timestamp":1786643128600,"batchId":0}
+{"path":"dbfs:/Workspace/Repos/romulo.leonardo@gmail.com/Spark-Guide/datasets/retail-data/by-day/2010-12-02.csv","timestamp":1786643128604,"batchId":1}
+{"path":"dbfs:/Workspace/Repos/romulo.leonardo@gmail.com/Spark-Guide/datasets/retail-data/by-day/2010-12-03.csv","timestamp":1786643128608,"batchId":2}
+{"path":"dbfs:/Workspace/Repos/romulo.leonardo@gmail.com/Spark-Guide/datasets/retail-data/by-day/2010-12-05.csv","timestamp":1786643128613,"batchId":3}
+{"path":"dbfs:/Workspace/Repos/romulo.leonardo@gmail.com/Spark-Guide/datasets/retail-data/by-day/2010-12-06.csv","timestamp":1786643128623,"batchId":4}
+{"path":"dbfs:/Workspace/Repos/romulo.leonardo@gmail.com/Spark-Guide/datasets/retail-data/by-day/2010-12-07.csv","timestamp":1786643128628,"batchId":5}
+{"path":"dbfs:/Workspace/Repos/romulo.leonardo@gmail.com/Spark-Guide/datasets/retail-data/by-day/2010-12-08.csv","timestamp":1786643128632,"batchId":6}
+{"path":"dbfs:/Workspace/Repos/romulo.leonardo@gmail.com/Spark-Guide/datasets/retail-data/by-day/2010-12-09.csv","timestamp":1786643128637,"batchId":7}
+{"path":"dbfs:/Workspace/Repos/romulo.leonardo@gmail.com/Spark-Guide/datasets/retail-data/by-day/2010-12-10.csv","timestamp":1786643128641,"batchId":8}
+{"path":"dbfs:/Workspace/Repos/romulo.leonardo@gmail.com/Spark-Guide/datasets/retail-data/by-day/2010-12-12.csv","timestamp":1786643128643,"batchId":9}
